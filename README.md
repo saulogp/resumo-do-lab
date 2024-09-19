@@ -16,3 +16,5 @@ Durante o laboratório foi repassado como a Azure apresenta o SLA:
   - Porcentagem de 99% a 99,999%;
   - O tempo de indisponibilidade que se refere cada porcentagem (semana, mês e ano);
   - Também foi demonstrado durante a criação de uma VM que cada escolha implica em um SLA;
+
+Durante o laboratório foi repassado o conceito de IaaS, PaaS e SaaS, demonstrando na prática também a criação de uma máquina virtual e de um banco de dados.
